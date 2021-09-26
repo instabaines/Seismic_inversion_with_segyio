@@ -8,3 +8,4 @@ Kerry3D data is used for demonstration as it is publicly available.
 - Inverted data is saved back to SEG-Y file using segyio
 
 The code presented here are adpated from segyio documentation. The notebook can be used as preprocessing step (Inversion) in seismic interpretation 
+Check dev branch for detailed notebook
